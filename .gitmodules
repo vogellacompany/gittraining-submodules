@@ -1,0 +1,4 @@
+[submodule "gittraining-shared"]
+	path = gittraining-shared
+	url = https://github.com/vogellacompany/gittraining-shared.git
+	branch = master
