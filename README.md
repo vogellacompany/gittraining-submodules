@@ -1,2 +1,2 @@
-# gittraining_submodules
+# gittraining-submodules
 Repository with Submodules for the Git Training
